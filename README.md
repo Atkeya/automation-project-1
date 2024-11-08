@@ -1,2 +1,4 @@
-# automation-project-1
-1st Project for Test Automation crash course
+# Test Automation Project-01
+Tech Stack: WebDriverIO, TypeScript
+<br>
+Project for Test Automation crash course
